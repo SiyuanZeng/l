@@ -93,7 +93,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>9.4-1201-jdbc41</version>
+            <version>42.3.7</version>
         </dependency>
         <dependency>
             <groupId>com.sparkjava</groupId>
@@ -124,7 +124,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>9.4-1201-jdbc41</version>
+            <version>42.3.7</version>
         </dependency>
 
 
